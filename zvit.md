@@ -5,7 +5,8 @@ intro_image: "images/calculator.jpg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
-
+### 2020
+[Річна фінансова звітність, звіт незалежного аудитора та звіт з надання впевненості](https://drive.google.com/file/d/1WrkCMNa6eCWJWTqJEoMlEdFh29QMRC3F/view?usp=sharing)
 ### 2019
 [Річна фінансова звітність та звіт незалежного аудитора.](https://drive.google.com/file/d/1jf8-ey0O27v-EkkmLpEBxYkvdNCGZJyu/view?usp=sharing)
 ### 2018
