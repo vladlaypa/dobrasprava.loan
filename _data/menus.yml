@@ -1,0 +1,18 @@
+main:
+  - name: "Звітність"
+    url: "/zvit/"
+    weight: 2
+  - name: "Про нас"
+    url: "/about/"
+    weight: 4
+  - name: "Контакти"
+    url: "/contact/"
+    weight: 5
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Контакти"
+    url: "/contact/"
+    weight: 2
