@@ -7,7 +7,11 @@ bodyClass: page-about
 ### Повне найменування
 КРЕДИТНА СПІЛКА „ДОБРА СПРАВА”
 ### Положення
-[2019](https://drive.google.com/file/d/1IYRVZEiw-EakaPnXH_b8ZCGXx5yN1Cb-/view) [2020](https://drive.google.com/file/d/1xvhDNGYNYkhluTQTWfJJ68RNsMwrgi80/view)
+[2019](https://drive.google.com/file/d/1IYRVZEiw-EakaPnXH_b8ZCGXx5yN1Cb-/view) 
+
+[2020](https://drive.google.com/file/d/1xvhDNGYNYkhluTQTWfJJ68RNsMwrgi80/view)
+
+[2021](https://drive.google.com/file/d/1_r4NXwQ6_dczczUruxKDcvf-FeEmqOuN/view)
 ### Ідентифікаційний код кредитної спілки за ЄДРПОУ
 25782021
 ### Місцезнаходження
