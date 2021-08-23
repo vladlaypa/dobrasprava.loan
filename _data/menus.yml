@@ -8,6 +8,9 @@ main:
   - name: "Контакти"
     url: "/contact/"
     weight: 5
+  - name: "Новини та події"
+    url: "/news/"
+    weight: 6
 
 footer:
   - name: "Home"
