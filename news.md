@@ -1,5 +1,5 @@
 ---
-title: Новини та події
+title: Інформація клієнту
 layout: page
 bodyClass: page-about
 ---
@@ -17,3 +17,6 @@ bodyClass: page-about
 
 ### [Інформація клієнту на виконання вимог частини 2 статті 12 Закону України «Про фінансові послуги та державне регулювання ринків фінансових послуг» від 12.07.2001 р. №2664-ІІІ](https://drive.google.com/file/d/1IeSOGBWPDLjQ5lKdyPk97-jIy3HR87Db/view?usp=sharing)
 
+###[Інформація на виконання вимог Положення про інформаційне забезпечення фінансовими установами споживачів щодо надання послуг споживчого кредитування,  що затверджене постановою Правління НБУ від 05.10.2021 № 100 (i)](https://drive.google.com/file/d/1ahdsfPlM8ht7_tI1pdlBHogiRJHzakNJ/view?usp=sharing)
+
+###[ПРОТОКОЛ № 20\2022 - засідання членів спостережної ради кредитної спілки “Добра справа”](https://drive.google.com/file/d/1W5tvEbVnnCiWDO_gaT9-8BeWHxTeU0CT/view?usp=sharing)

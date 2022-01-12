@@ -8,7 +8,7 @@ main:
   - name: "Контакти"
     url: "/contact/"
     weight: 5
-  - name: "Новини та події"
+  - name: "Інформація клієнту"
     url: "/news/"
     weight: 6
 
